@@ -19,8 +19,6 @@ This project integrates a third-party API provided by Programming Hero to fetch 
 
 🧭 Protected route for "News Details" (requires login)
 
-🌙 Dark/light theme toggle (optional based on your implementation)
-
 🛠️ Tech Stack
 React.js – Front-end framework
 
