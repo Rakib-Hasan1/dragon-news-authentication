@@ -3,8 +3,8 @@ Dragon News is a responsive front-end web application built with React that deli
 
 This project integrates a third-party API provided by Programming Hero to fetch news content dynamically. It includes category-wise browsing, news details viewing, and authentication-protected routes for a more tailored experience.
 
-🚀 Live Site
-🌐 the-dragon-news-6136e.web.app
+## 🚀 Live Site  
+🌐 [the-dragon-news-6136e.web.app](https://the-dragon-news-6136e.web.app)
 
 🧠 Features
 🔐 User Authentication with Firebase (Login/Logout)
