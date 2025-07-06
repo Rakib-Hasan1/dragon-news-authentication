@@ -1,5 +1,5 @@
 🐉 Dragon News
-Dragon News is a front-end web application built with React that delivers real-time news articles across multiple categories. It offers a smooth and engaging user experience on all devices, complete with Firebase Authentication for secure and personalized access.
+is a front-end web application built with React that delivers real-time news articles across multiple categories. It offers a smooth and engaging user experience on all devices, complete with Firebase Authentication for secure and personalized access.
 
 This project integrates a third-party API provided by Programming Hero to fetch news content dynamically. It includes category-wise browsing, news details viewing, and authentication-protected routes for a more tailored experience.
 
